@@ -16,3 +16,4 @@ I have gone to [Mirman School](https://mirman.org/), which is on Mulholland Driv
     - Basketball is generally not my first choice, but I still like to play when I get the chance.
 
 ![Playing Chess at the World Youth](https://farm6.static.flickr.com/5773/22500951136_ea2a4faec4_b.jpg)
+[Click here for more about my journey to Greece!](http://smmirror.com/2015/10/local-chess-prodigy-will-test-skills-at-world-event/)
