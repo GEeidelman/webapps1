@@ -1,1 +1,19 @@
-// Your CSS code goes here
+body {
+  background: blue;
+  color: yellow;
+}
+
+h1 {
+  text-align: center;
+}
+
+.bar {
+  border: solid white;
+  background: seagreen;
+  text-align: center;
+  margin: 12px
+}
+
+.bar:hover {
+  background: purple;
+}
