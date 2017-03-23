@@ -1,0 +1,274 @@
+body {
+  background:white;
+}
+
+img {
+  margin: 3%;
+}
+
+div {
+  margin: 5%;
+}
+
+#behindgoal {
+  height: 0vh;
+  width: 100vw;
+  border: 3px solid white;
+  background: white;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+#container {
+    width: 550px;
+    height: 3000px;
+    border: 3px white solid;
+    background: green;
+    margin: 0 auto;
+}
+#jeezy {
+    transform: rotatex(180deg);
+    height: 40px;
+    left: 50px;
+    top: 50px;
+    transition: left .5s ease-in, top .5s ease-in;
+}
+
+#jeezy:hover {
+  background: red;
+  transition: .7s;
+}
+
+#jeezy2 {
+  transform: rotatex(180deg);
+  height: 40px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  transition: left .5s ease-in, top .5s ease-in;
+}
+
+#jeezy2:hover {
+  background: red;
+  transition: .7s;
+}
+
+#jeezy3 {
+  transform: rotatex(180deg);
+  height: 40px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  transition: left .5s ease-in, top .5s ease-in;
+}
+
+#jeezy3:hover {
+  background: red;
+  transition: .7s.
+}
+
+#jeezy4 {
+  transform: rotatex(180deg);
+  height: 40px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  transition: left .5s ease-in, top .5s ease-in;
+}
+
+#jeezy4:hover {
+  background: red;
+  transition: .7s;
+}
+
+#jeezy5 {
+  transform: rotatex(180deg);
+  height: 40px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  transition: left .5s ease-in, top .5s ease-in;
+}
+
+#jeezy5:hover {
+  background: red;
+  transition: .7s;
+}
+
+#jeezy6 {
+  transform: rotatex(180deg);
+  height: 40px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  transition: left .5s ease-in, top .5s ease-in;
+}
+
+#jeezy6:hover {
+  background: red;
+  transition: .7s;
+}
+
+#jeezy7 {
+  transform: rotatex(180deg);
+  height: 40px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  transition: left .5s ease-in, top .5s ease-in;
+}
+
+#jeezy7:hover {
+  background: red;
+  transition: .7s;
+}
+
+#jeezy8 {
+  transform: rotatex(180deg);
+  height: 40px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  transition: left .5s ease-in, top .5s ease-in;
+}
+
+#jeezy8:hover {
+  background: red;
+  transition: .7s;
+}
+
+#jeezy9 {
+  transform: rotatex(180deg);
+  height: 40px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  transition: left .5s ease-in, top .5s ease-in;
+}
+
+#jeezy9:hover {
+  background: red;
+  transition: .7s;
+}
+
+#jeezy10 {
+  transform: rotatex(180deg);
+  height: 40px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  transition: left .5s ease-in, top .5s ease-in;
+}
+
+#jeezy10:hover {
+  background: red;
+  transition: .7s;
+}
+
+#jeezy11 {
+  transform: rotatex(180deg);
+  height: 40px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  transition: left .5s ease-in, top .5s ease-in;
+}
+
+#jeezy11:hover {
+  background: red;
+  transition: .7s;
+}
+
+#jeezy12 {
+  transform: rotatex(180deg);
+  height: 40px;
+  position: relative;
+  left: 50px;
+  top: 0px;
+  transition: left .5s ease-in, top .5s ease-in;
+}
+
+#jeezy12:hover {
+  background: red;
+  transition: .7s;
+  top: 550px;
+  left: 0px;
+}
+
+#button {
+  height: 45px;
+  transform: rotatex(180deg)
+}
+
+.field-half {
+  margin: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.field-section {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+
+
+.goal-zone {
+  border: solid 3px white;
+  border-top: none;
+  width: 40vw;
+  height: 25vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.goal {
+  border: solid 3px white;
+  width: 25vw;
+  height: 10vw;
+  display: flex;
+  justify-content: center;
+}
+
+.jersey {
+  font-size: 2.4em;
+  transition: all .3s;
+  transform: rotatex(180deg);
+  margin: 4%;
+}
+
+.bottom {
+  transform: rotatex(180deg);
+}
+
+#circle {
+  height: 0vh;
+  width: 0vw;
+  border: 0px solid white;
+  border-radius: 50%;
+}
+
+#circle2 {
+  height: 10vh;
+  width: 10vw;
+  border: 3px solid white;
+  margin: 0 auto;
+  border-radius: 50%;
+  left: 0px;
+}
+
+#line {
+  border: solid 3px white;
+  width: 100vw;
+  height: 0vh;
+  background: white;
+  display: flex;
+}

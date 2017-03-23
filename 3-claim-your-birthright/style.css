@@ -5,8 +5,116 @@
 html, body {
   padding: 0;
   margin: 0;
+  border: 0;
+  font-size: 100%;
+  background: green;
 }
 
-/*
-  Now, your CSS
-*/
+.field {
+  margin: 0px;
+  height: 98vh;
+  width: 70vh;
+  background: green;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.jerseys {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 300%;
+}
+
+#jersey2 {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+#jersey1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;;
+  justify-content: flex-end;
+}
+
+.field-half {
+  margin: 0;
+}
+
+.goal-zone {
+  border: solid 3px white;
+  width: 40vw;
+  height: 25vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.goal {
+  border: solid 3px white;
+  width: 25vw;
+  height: 10vw;
+  display: flex;
+  align-items: space-around;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+#bottom {
+  transform: rotateX(180deg);
+}
+
+.field {
+  margin: 0px;
+  height: 98vh;
+  width: 75vh;
+  background: green;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.field-half {
+  margin: 0;
+}
+
+.goal-zone {
+  border: solid 3px white;
+  width: 40vw;
+  height: 25vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.goal {
+  border: solid 3px white;
+  width: 25vw;
+  height: 10vw;
+}
+
+h1 {
+  text-align: center;
+}
+
+.relative {
+  position: relative;
+  width: 100%;
+}
+
+.ball {
+  position: absolute;
+  font-size: 95%;
+  top: 89%;
+  left: 14%;
+  height: 100%;
+  width: 50%;
+}

@@ -3,16 +3,45 @@ body {
   color: yellow;
 }
 
+.inline {
+  display: inline-block;
+}
+
+#foo {
+  font-family: "Shadows Into Light", handwriting;
+  border-radius: 15px;
+  border: solid white;
+  background: green;
+}
+
 h1 {
   text-align: center;
 }
 
 .bar {
-  border: solid white;
   background: seagreen;
   text-align: center;
   margin: 12px
+  font-family: "Shadows Into Light", handwriting;
+  margin: 15px;
 }
+
+#otherid {
+  font-family: "Shadows Into Light", handwriting;
+  color: green;
+  background: orange;
+  border-radius: 15px;
+  border: solid white;
+}
+
+#otherid2 {
+  font-family: "Shadows Into Light", handwriting;
+  background: yellow;
+  color: #0064FF;
+  border-radius: 15px;
+  border: solid white;
+}
+
 
 .bar:hover {
   background: purple;
