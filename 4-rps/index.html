@@ -4,6 +4,23 @@
         <title>RPS</title>
     </head>
     <body>
+        <h1>RPS</h1>
+        <div id="instructions">
+            <p>
+                Click a choice below to start the game!
+            </p>
+        </div>
+        <div>
+            <button class="score" onclick="playerChoice('rock')">Rock</button>
+            <button class="score" onclick="playerChoice('paper')">Paper</button>
+            <button class="score" onclick="playerChoice('scissors')">Scissors</button>
+        </div>
+        <div id="scoreboard">
+            <p id="wins"></p>
+            <p id="losses"></p>
+            <p id="ties"></p>
+        </div>
+        <h2>Score</h2>
         <script src="app.js"></script>
     </body>
 </html>
